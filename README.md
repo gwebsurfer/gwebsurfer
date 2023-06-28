@@ -23,15 +23,3 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-[![gwebsurfer](https://github-readme-stats.vercel.app/api?username=gwebsurfer&theme=radical)](https://github.com/gwebsurfer/github-readme-stats)
-
-[![gab](https://github-readme-stats.vercel.app/api/top-langs/?username=gwebsurfer&hide=html&layout=compact&theme=radical)](https://github.com/gwebsurfer/github-readme-stats)
-
-
-### :earth_americas: Onde me encontrar:
-
-[![Linkedin](https://img.shields.io/badge/-Gab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gab-frontend)](https://www.linkedin.com/in/gab-frontend)
-[![Gmail Badge](https://img.shields.io/badge/-gwebsurfer@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwebsurfer@gmail.com)](mailto:gwebsurfer@gmail.com)
-[![GitHub]( https://img.shields.io/github/followers/gwebsurfer?label=follow&style=social)](https://github.com/gwebsurfer)
