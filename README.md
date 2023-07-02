@@ -1,12 +1,12 @@
 
-## :woman: Sobre mim </h3>
+## :woman: About me
 
-- 🤓 Apaixonada por tecnologia e inovação.
-- 🎓 Pós-graduanda em UX/UI pela PUC-RS e iniciando **Jogos Digitais** na Belas Artes SP.
-- 🌱 Aprendendo mais sobre **React, TS e Next JS**.
+- 🤓 Passionate about technology and innovation.
+- 🎓 Postgraduate student in UX/UI at PUC-RS and starting Digital Games at Belas Artes SP.
+- 🌱 Learning **React, TS e Next JS**.
 
 
-## :rocket: Minhas Skills
+## :rocket: My Skills
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
