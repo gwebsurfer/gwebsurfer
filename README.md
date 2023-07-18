@@ -3,7 +3,7 @@
 
 - 🤓 Passionate about technology and innovation.
 - 🎓 Postgraduate student in UX/UI at PUC-RS and starting Digital Games at Belas Artes SP.
-- 🌱 Learning React, Angular, TS and Next JS.
+- 🌱 Learning React, TypeScript, Angular and Next JS.
 
 
 ## :rocket: My Skills
