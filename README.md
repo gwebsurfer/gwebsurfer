@@ -2,17 +2,17 @@
 ## :woman: About me
 
 - 🤓 Passionate about technology and innovation.
-- 🎓 Postgraduate student in UX/UI at PUC-RS and starting Digital Games at Belas Artes SP.
-- 🌱 Learning React, TypeScript, Angular and Next JS.
+- 🎓 Postgraduate student in Full Stack Development at PUC-RS.
+- 🌱 Learning React, React Native, TypeScript, Angular and Next JS.
 
 
 ## :rocket: My Skills
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Styled Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
-  ![React Query](https://img.shields.io/badge/-ReactQuery-333333?style=flat&logo=reactquery)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
