@@ -17,12 +17,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  
-  ![Next JS](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -31,3 +25,9 @@
   ![Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=adobephotoshop&logoColor=007ACC)
   ![After Effects](https://img.shields.io/badge/-AdobeAfterEffects-333333?style=flat&logo=adobeaftereffects&logoColor=007ACC)
   ![Illustrator](https://img.shields.io/badge/-AdobeIllustrator-333333?style=flat&logo=adobeillustrator&logoColor=007ACC)
+
+  ![Next JS](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
