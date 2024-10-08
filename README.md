@@ -3,7 +3,6 @@
 
 - 🤓 Passionate about technology and innovation.
 - 🎓 Postgraduate student in Full Stack Development at PUC-RS.
-- 🌱 Learning React, React Native, TypeScript, Angular and Next JS.
 
 
 ## :rocket: My Skills
